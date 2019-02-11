@@ -33,4 +33,4 @@ $ npm run build
 
 ### Author
 
-Istiyak Milon & Brad Traversy
+Istiyak Milon 
